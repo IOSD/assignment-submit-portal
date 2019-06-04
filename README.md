@@ -27,5 +27,5 @@ The recommended stack for the project is
 * AngularJS
 
 ## Contribution Guidelines
-Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
-Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project. 
+* Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
+* Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project. 
