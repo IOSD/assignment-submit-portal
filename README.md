@@ -19,6 +19,7 @@ A portal where students submit their assignments for Web development and Android
 
 
 ## Stack
+The recommended stack for the project is
 * HTML, CSS, JavaScript/jQuery
 * MySQL
 * ReactJS
@@ -27,3 +28,4 @@ A portal where students submit their assignments for Web development and Android
 
 ## Contribution Guidelines
 Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
+Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project. 
